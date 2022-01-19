@@ -1,7 +1,7 @@
 # Bike_Sharing
 [link to dashboard](https://public.tableau.com/app/profile/colin1467/viz/CitiBikeSharing_16426289746460/CitiBikeSharing "link to dashboard")
 ## Overview of Analysis
-For this challenege I have been tasked with using citi bike data from New York to create vizualizations on Tableau to help convince investors to create a ride sharing program in Des Moines, Iowa. I were tasked with first transforming the trip duration to datetime on jupyter notebook. Then I had to create visualizations using this citi data to portray a story to the investors.
+For this challenege I have been tasked with using citi bike data from New York to create vizualizations on Tableau to help convince investors to create a ride sharing program in Des Moines, Iowa. I were tasked with first transforming the trip duration to datetime on jupyter notebook. Then I had to create visualizations using this citi data to portray a story to the investors. For my story I first decided to look at bike usage and potential times to repair bikes. I then jumped into looking at tripduration and start time. I then begin to look at these metrics based on gender and user type.
 ## Results
 1. Usage of Bikes
 
